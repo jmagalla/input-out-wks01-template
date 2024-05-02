@@ -1,4 +1,4 @@
-# u2pa01: Inputs y Recortes
+# taller-01: Inputs y Recortes
 
 ## Ejercicio 1: Resolver una ecuación cuadrática
 
